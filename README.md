@@ -2,6 +2,7 @@
 A simple, interactive Python script that converts temperatures between Celsius and Fahrenheit.
 
 > Features
+
 Dynamic Prompting: Asks the user for their desired target unit before requesting the starting temperature to ensure accurate inputs.
 
 Accurate Math: Handles bidirectional conversions using standard thermodynamic formulas.
