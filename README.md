@@ -7,4 +7,4 @@ A simple, interactive Python script that converts temperatures between Celsius a
 
 * Accurate Math: Handles bidirectional conversions using standard thermodynamic formulas.
 
-* Clean Output: Formats the final calculated result to two decimal places and utilizes Unicode to include the exact ° symbol.
+* Clean Output: Formats the final calculated result to two decimal places.
